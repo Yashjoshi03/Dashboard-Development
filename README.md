@@ -1,6 +1,15 @@
 # Dashboard-Development
+COMPANY: CODTECH IT SOLUTIONS
 
+NAME: YASH JOSHI
 
+INTERN ID: CT12DL193
+
+DOMAIN: DATA ANALYTICS
+
+DURATION: 12 WEEKS
+
+MENTOR: NEELA SANTOSH
 
 # 📊 Financial Performance Dashboard – Power BI
 
