@@ -70,6 +70,11 @@ The data used in this dashboard includes the following CSV files:
 * Health of cash flows and operational efficiency
 * Capital structure and asset-liability balance
 
----
+  
+Output:
+<img width="769" height="475" alt="Image" src="https://github.com/user-attachments/assets/3e024f94-cb17-46d6-a576-2bae3547adfb" />
 
+<img width="762" height="443" alt="Image" src="https://github.com/user-attachments/assets/c61a3c20-231f-4fff-823f-49ae3f0ffdf7" />
+
+<img width="642" height="338" alt="Image" src="https://github.com/user-attachments/assets/f4b30b9f-c580-4fd7-850c-a3ae0ac08c94" />
 
